@@ -5,8 +5,14 @@
 
 ## Introduction
 
+	Here showing Introduction text.
+
 ## Purpose
 
+	Purpose added here.
+
 ## Deployement
+
+	This is the deployment area.
 
 ## How To Contribute
