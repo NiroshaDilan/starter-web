@@ -20,3 +20,6 @@
 
 	Here is the contribute section.
 	added here
+	
+## Copyright
+ 2014 Git.Training.
