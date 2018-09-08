@@ -18,6 +18,9 @@
 
 ## How To Contribute
 
+	Please fork this repository and then issue Pull Request
+	for review.
+
 	Here is the contribute section.
 	added here
 	
