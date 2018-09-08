@@ -1,7 +1,8 @@
 # Starter Web Project
 
  This is a sample web project to showing a Git and
- Git hub together. Adding a line for rebaseing example.
+ Git hub together. Adding a line for rebaseing example,
+ More changes from myfeature branch too.
 
 ## Introduction
 
