@@ -1,7 +1,7 @@
 # Starter Web Project
 
  This is a sample web project to showing a Git and
- Git hub together.
+ Git hub together. Adding a line for rebaseing example.
 
 ## Introduction
 
