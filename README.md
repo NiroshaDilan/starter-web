@@ -13,6 +13,8 @@
 
 ## Deployement
 
+	This is from master
+
 	This is the deployment area.
 	Again added new text here
 
